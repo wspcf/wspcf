@@ -1,7 +1,7 @@
 ![Power Coder](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/323768946_1016584026398811_7698700186628561085_n.jpg?stp=dst-jpg_p640x640&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0zZU_EC6kfQAX95JHN1&_nc_ht=scontent.fdac24-2.fna&oh=00_AfA39ACCMOEqUn7o58ZvdDaonqsdeLDpTRLssNo1U_PyKw&oe=63B880EB)
 
-### Hi there 👋, MD Tanvirul Haque
-#### Power Coder
+# MD Tanvirul Haque
+## Power Coder
 
 Programming Future - Dreams Made Reality
 
