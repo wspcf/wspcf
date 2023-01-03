@@ -6,7 +6,6 @@
 ### Programming Future - Dreams Made Reality
 
 Skills: Right Now Sleeping
-![Wordpress]
 
 
 
